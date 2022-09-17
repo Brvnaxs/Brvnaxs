@@ -12,8 +12,8 @@
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=c5267b">
    <img align="center"  height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=c5267b">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=c5267b">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=c5267b">
-  <img align="center"  height="30" width="40" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=c5267b">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=128&color=c5267b">
+  <img align="center" height="40" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=c5267b">
+  <img align="center"  height="40" width="40" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=c5267b">
+  <img align="center" height="40" width="40" src="https://icongr.am/devicon/python-plain-wordmark.svg?size=128&color=c5267b">
  
 </div>
