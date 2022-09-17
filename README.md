@@ -1,4 +1,4 @@
-### Olá, eu sou a Bru
+### Olá!
 
 - 📚 Atualmente estudo Desenvolvimento de sistemas
 
