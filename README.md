@@ -7,7 +7,9 @@
 <div>
   <a href="https://github.com/Brvnaxs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brvnaxs&layout=compact&langs_count=7&theme=synthwave"/>
+  
 </div>
+<br>
 
 - Atualmente estudando:
   <div style="display: inline_block"><br>
