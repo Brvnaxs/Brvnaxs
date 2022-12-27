@@ -1,22 +1,14 @@
-### Olá!
+# 💫 About Me:
+💻 i'm currently working with front-end development<br>📚 i'm currently learning reactJS and Node.js<br>📌 Recife, PE
 
-- 📚 Técnico em Desenvolvimento de sistemas
 
-- 📌 Recife, PE
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-xavier-3624bb226/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Brvnaxs&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Brvnaxs&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brvnaxs&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
-  <a href="https://github.com/Brvnaxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brvnaxs&layout=compact&langs_count=7&theme=synthwave"/>
-  
-</div>
-<br>
 
-- Atualmente estudando:
-  <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=c5267b">
-   <img align="center"  height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=c5267b">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-plain.svg?size=128&color=c5267b">
-  <img align="center" height="40" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=c5267b">
-  <img align="center"  height="40" width="40" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=c5267b">
- 
-</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
